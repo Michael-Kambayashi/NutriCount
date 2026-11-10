@@ -127,9 +127,14 @@ The original project documentation identifies the following modules:
 5. Check the **Overview** for daily totals, edit food entries if needed, or export a CSV report.
 6. Use the in-app chatbot for general diet- or fitness-related planning questions.
 
-## Screenshots
+## Project Documentation
 
-The original project documentation includes screenshots of the sign-in screen, daily overview, calculator, settings, and chatbot. Screenshots can be added here later under a `screenshots/` folder, using sample accounts and no personal information.
+For a detailed explanation of the system architecture,
+use case diagrams, application modules, database design,
+screenshots, and testing procedures, see the full
+academic documentation:
+
+[View NutriCount Project Documentation (PDF)](docs/NutriCountDocumentation.pdf)
 
 ## Limitations
 
@@ -146,5 +151,3 @@ NutriCount was developed as an academic application to explore how natural-langu
 **Source code:** [github.com/Michael-Kambayashi/NutriCount](https://github.com/Michael-Kambayashi/NutriCount)
 
 ---
-
-*This README describes the features documented in the 2025 project report. Verify current repository files and scripts before publishing exact deployment instructions.*
